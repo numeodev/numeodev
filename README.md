@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mathurin Bourgouin
 
-<!--
-**numeodev/numeodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack .NET / Azure developer based in Lyon, France.
 
-Here are some ideas to get you started:
+I start from business needs before writing code, and I integrate AI coding agents
+into a structured development workflow: tests, code reviews, documented conventions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- 🔭 Building [Sealens](https://sealens.io) — [what Sealens does, in one line]
+- ✍️ Writing about software resilience, cognitive ergonomics and AI agent governance
+  on [numeolab.fr](https://numeolab.fr) (in French)
+- 📬 Maintaining an [open, collaborative directory of French-speaking tech newsletters](https://github.com/numeodev/newsletters-tech-fr-a-la-french)
+
+### Stack
+C# · .NET · ASP.NET Core · Vue.js · React · TypeScript · Azure · Azure DevOps · Docker
+
+### Get in touch
+[LinkedIn](https://www.linkedin.com/in/mathurin-bourgouin) · [Blog](https://numeolab.fr)
