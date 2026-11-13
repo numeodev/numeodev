@@ -1,5 +1,3 @@
-# Mathurin Bourgouin
-
 Fullstack .NET / Azure developer based in Lyon, France.
 
 I start from business needs before writing code, and I integrate AI coding agents
