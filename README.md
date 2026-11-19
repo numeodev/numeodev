@@ -4,7 +4,7 @@ I start from business needs before writing code, and I integrate AI coding agent
 into a structured development workflow: tests, code reviews, documented conventions.
 
 ### Currently
-- 🔭 Building [Sealens](https://sealens.io) — [what Sealens does, in one line]
+- 🔭 Building [Sealens](https://sealens.io) — Sealens learns from every incident to make your next release safer
 - ✍️ Writing about software resilience, cognitive ergonomics and AI agent governance
   on [numeolab.fr](https://numeolab.fr) (in French)
 - 📬 Maintaining an [open, collaborative directory of French-speaking tech newsletters](https://github.com/numeodev/newsletters-tech-fr-a-la-french)
